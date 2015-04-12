@@ -6,6 +6,10 @@ ISOCE does not depend on any Graphics API ( OpenGL, DirectX) since it is impleme
 
 ISOCE is DLL module programmed in C++, optimized using SSE intrinsics and is based on Hierarchical Occlusion Maps.
 
+Inline-style: 
+![alt text](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine/raw/master/images/ISOCE Screen.jpg "Logo Title Text 1")
+
+
 ## Overview of how it works:
 
 Select and generate the best occluders of your scene. Calculate their conservative axis aligned boxes.
@@ -24,6 +28,6 @@ Please contact me at lebarba  at  gmail.com
 
 ## Authors:
 
-Leandro Barbagallo  lebarba  at  gmail.com
+Leandro Barbagallo  (lebarba  at  gmail.com)
 
-Matias Leone  leonematias at  gmail.com
+Matias Leone  (leonematias at  gmail.com)
