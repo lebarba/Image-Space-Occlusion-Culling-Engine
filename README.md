@@ -7,7 +7,7 @@ ISOCE does not depend on any Graphics API ( OpenGL, DirectX) since it is impleme
 ISOCE is DLL module programmed in C++, optimized using SSE intrinsics and is based on Hierarchical Occlusion Maps.
 
 Inline-style: 
-![alt text](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine/raw/master/images/ISOCE Screen.jpg "Logo Title Text 1")
+![image](https://raw.githubusercontent.com/lebarba/Image-Space-Occlusion-Culling-Engine/master/images/ISOCE%20Screen.jpg "")
 
 
 ## Overview of how it works:
