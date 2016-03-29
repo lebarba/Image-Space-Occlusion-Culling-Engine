@@ -6,7 +6,10 @@ ISOCE does not depend on any Graphics API ( OpenGL, DirectX) since it is impleme
 
 ISOCE is DLL module programmed in C++, optimized using SSE intrinsics and is based on Hierarchical Occlusion Maps.
 
-Inline-style: 
+For statically generated PVS there is a Project called Janua:
+https://github.com/gigc/Janua
+
+ 
 ![image](https://raw.githubusercontent.com/lebarba/Image-Space-Occlusion-Culling-Engine/master/images/ISOCE%20Screen.jpg "")
 
 
